@@ -8,7 +8,8 @@
       <a href="home.html">Home</a>
       <a href="index.html">Menu</a>
     </nav>
-    <h1>Menu</h1>
+    <h1>Two Sandals Soups and Salads</h1>
+    <h2>Menu</h2>
     <p>Here at Two Sandals Soups and Salads, we serve a delicious spread of traditional and
  not-so-traditional, you guessed it...soups and salads! All our ingredients are farm-to-table
  and free-trade certified! Come in salad-ivating. We'll make sure you leave soup-er salad-isfied.</p>
@@ -20,7 +21,7 @@
       </ul>
     </nav>
     <div id="soups">
-      <h2>Soups</h2>
+      <h3>Soups</h3>
       <img
  src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/freelance1-img_tomato-soup.jpg" />
       <ol>
@@ -30,7 +31,7 @@
       </ol>
     </div>
     <div id="salads">
-      <h2>Salads</h2>
+      <h3>Salads</h3>
       <img
  src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/freelance1-img_caesar-salad.jpg" />
       <ol>
@@ -40,7 +41,7 @@
      </ol>
    </div>
   <div id="desserts">
-    <h2>Desserts</h2>
+    <h3>Desserts</h3>
     <img
  src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-1/freelance1-img_chocchip-cookie.jpg" />
     <ol>
